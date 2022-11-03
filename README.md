@@ -1,4 +1,4 @@
-#SecureFiles
+# SecureFiles
 
 SecureFiles is a encryption and decryption tool to share important files over any media.
 With this tool we can able to encrypt text files, images, video's, audio's and any other files. And the decryption option is also available to decrypt the files.
